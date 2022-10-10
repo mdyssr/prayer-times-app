@@ -1,4 +1,4 @@
-##Prayer Times App
+## Prayer Times App
 
 An application which will let you know the hijri date and the prayer times in your area
 
